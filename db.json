@@ -1,0 +1,88 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Nordic Chair",
+            "price": 50.00,
+            "image": "https://www.buyitdirect.ie/Images/HRS001_5_15316717_Supersize.jpg?v=47",
+            "description": "Welcome to our Fall/Winter '20 collection. We add daily products to our website, but make sure to check out our favorites for this Autumn Season. Create your own cozy home with our decor, lighting and furniture. All pieces come straight from the Netherlands. Dutchfurniture.com"
+        },
+        {
+            "id": 2,
+            "name": "Kruzo Aero Chair",
+            "price": 78.00,
+            "image": "https://m.media-amazon.com/images/I/31iugDMwQaL._AC_UF350,350_QL80_.jpg",
+            "description": "Welcome to our Fall/Winter '20 collection. We add daily products to our website, but make sure to check out our favorites for this Autumn Season. Create your own cozy home with our decor, lighting and furniture. All pieces come straight from the Netherlands. Dutchfurniture.com"
+        },
+        {
+            "id": 3,
+            "name": "Ergonomic Chair",
+            "price": 43.00,
+            "image": "https://demosites.royal-elementor-addons.com/furniture-shop-v1/wp-content/uploads/sites/51/2022/07/Fur-13-600x600.jpg",
+            "description": "Welcome to our Fall/Winter '20 collection. We add daily products to our website, but make sure to check out our favorites for this Autumn Season. Create your own cozy home with our decor, lighting and furniture. All pieces come straight from the Netherlands. Dutchfurniture.com"
+        },
+        {
+            "id": 4,
+            "name": "Nordic Aero Chair",
+            "price": 60.00,
+            "image": "https://www.housecustomize.com/wp-content/uploads/2023/06/KonoE_Subaru_Futon_gray_isolated_whitebackground_deee8f5f-6f3d-4428-b235-f9eec071c074-1024x1024.jpg",
+            "description": "Welcome to our Fall/Winter '20 collection. We add daily products to our website, but make sure to check out our favorites for this Autumn Season. Create your own cozy home with our decor, lighting and furniture. All pieces come straight from the Netherlands. Dutchfurniture.com"
+        },
+        {
+            "id": 5,
+            "name": "BRANA dining chair",
+            "price": 70.00,
+            "image": "https://storage.googleapis.com/furnibay-furnisystems-production/furnisystems-cldltkv4c00bemxjaapb86px5.jpg",
+            "description": "Welcome to our Fall/Winter '20 collection. We add daily products to our website, but make sure to check out our favorites for this Autumn Season. Create your own cozy home with our decor, lighting and furniture. All pieces come straight from the Netherlands. Dutchfurniture.com"
+        },
+        {
+            "id": 6,
+            "name": "High Back Wing Chair",
+            "price": 80.00,
+            "image": "https://m.media-amazon.com/images/I/61u7itx+vnL.jpg",
+            "description": "Welcome to our Fall/Winter '20 collection. We add daily products to our website, but make sure to check out our favorites for this Autumn Season. Create your own cozy home with our decor, lighting and furniture. All pieces come straight from the Netherlands. Dutchfurniture.com"
+        },
+        {
+            "id": 7,
+            "name": "Charcoal Grey Velvet Cuddler",
+            "price": 75.00,
+            "image": "https://www.lakdi.com/cdn/shop/files/Neo_Single_Arm_Chair_Executive_Office_Visitor_Reception_Seating_-_-3766900.jpg?v=1737452179",
+            "description": "Welcome to our Fall/Winter '20 collection. We add daily products to our website, but make sure to check out our favorites for this Autumn Season. Create your own cozy home with our decor, lighting and furniture. All pieces come straight from the Netherlands. Dutchfurniture.com"
+        },
+        {
+            "id": 8,
+            "name": "Square Arm sofa",
+            "price": 90.00,
+            "image": "https://m.media-amazon.com/images/I/416n24k8InL._AC_UF350,350_QL80_.jpg",
+            "description": "Welcome to our Fall/Winter '20 collection. We add daily products to our website, but make sure to check out our favorites for this Autumn Season. Create your own cozy home with our decor, lighting and furniture. All pieces come straight from the Netherlands. Dutchfurniture.com"
+        },
+        {
+            "id": 9,
+            "name": "Global Fabric Swivel Chair",
+            "price": 60.00,
+            "image": "https://www.secretsofa.com.au/cdn/shop/files/GLOBAL-CHAIR-PU-MI-02.jpg?v=1734644860&width=1500",
+            "description": "Welcome to our Fall/Winter '20 collection. We add daily products to our website, but make sure to check out our favorites for this Autumn Season. Create your own cozy home with our decor, lighting and furniture. All pieces come straight from the Netherlands. Dutchfurniture.com"
+        },
+        {
+            "id": 10,
+            "name": "Cafe Chairs",
+            "price": 65.00,
+            "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/348919926/QX/MJ/VJ/5699931/chair-500x500.png",
+            "description": "Welcome to our Fall/Winter '20 collection. We add daily products to our website, but make sure to check out our favorites for this Autumn Season. Create your own cozy home with our decor, lighting and furniture. All pieces come straight from the Netherlands. Dutchfurniture.com"
+        },
+        {
+            "id": 11,
+            "name": "4 Seater Velvet Highback Sofa",
+            "price": 95.00,
+            "image": "https://images.roller.de/product/big-sofa-blau-samtstoff/1221009601?ts=1629725267000&format=webp&size=492x0",
+            "description": "Welcome to our Fall/Winter '20 collection. We add daily products to our website, but make sure to check out our favorites for this Autumn Season. Create your own cozy home with our decor, lighting and furniture. All pieces come straight from the Netherlands. Dutchfurniture.com"
+        },
+        {
+            "id": 12,
+            "name": "Armhair Computer chair",
+            "price": 50.00,
+            "image": "https://media.diy.com/is/image/KingfisherDigital/wheelless-upholstered-swivel-armhair-computer-chair-for-bedroom-living-room-94cm-h-beige~0795850289971_02c_MP?$MOB_PREV$&$width=284&$height=284",
+            "description": "Welcome to our Fall/Winter '20 collection. We add daily products to our website, but make sure to check out our favorites for this Autumn Season. Create your own cozy home with our decor, lighting and furniture. All pieces come straight from the Netherlands. Dutchfurniture.com"
+        }            
+    ]
+}
