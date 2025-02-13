@@ -1,5 +1,5 @@
 import React from 'react';
-import { useLocation, useNavigate } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { useForm } from 'react-hook-form';
 import * as yup from 'yup';
 import { yupResolver } from '@hookform/resolvers/yup';
@@ -10,8 +10,8 @@ const schema = yup.object().shape({
   c_fname: yup.string().required('First name is required'),
   c_lname: yup.string().required('Last name is required'),
   c_address: yup.string().required('Address is required'),
-  c_state_country: yup.string().required('State / Country is required'),
-  c_postal_zip: yup.string().required('Postal/Zip code is required'),
+  // c_state_country: yup.string().required('State / Country is required'),
+  // c_postal_zip: yup.string().required('Postal/Zip code is required'),
   c_email_address: yup.string().email('Invalid email').required('Email address is required'),
   c_phone: yup.string().required('Phone number is required'),
   
@@ -19,7 +19,6 @@ const schema = yup.object().shape({
 
 const Checkout = () => {
   const location = useLocation(); // Access passed state
-  // const { cart, subtotal } = location.state || {};
   const { cart = [], subtotal = 0 } = location.state || {};
 
   const navigate = useNavigate();
@@ -58,7 +57,7 @@ const Checkout = () => {
             <div className="row mb-5">
               <div className="col-md-12">
                 <div className="border p-4 rounded" role="alert">
-                  Returning customer? <a to="#">Click here</a> to login
+                  Returning customer? <Link to="/login">Click here</Link> to login
                 </div>
               </div>
             </div>
@@ -100,7 +99,7 @@ const Checkout = () => {
                     </div>
                   </div>
 
-                  <div className="form-group row">
+                  {/* <div className="form-group row">
                     <div className="col-md-6">
                       <label htmlFor="c_state_country" className="text-black">State<span className="text-danger">*</span></label>
                       <input type="text" className="form-control" id="c_state_country" {...register('c_state_country')} />
@@ -111,7 +110,7 @@ const Checkout = () => {
                       <input type="text" className="form-control" id="c_postal_zip" {...register('c_postal_zip')} />
                       {errors.c_postal_zip && <p className="text-danger">{errors.c_postal_zip.message}</p>}
                     </div>
-                  </div>
+                  </div> */}
 
                   <div className="form-group row">
                     <div className="col-md-6">
@@ -156,7 +155,7 @@ const Checkout = () => {
                         </tbody>
                       </table>
 
-                      {/* Only enable Place Order button if form is valid */}
+                      
                       <button className="btn btn-primary" type="submit">
                         Place Order
                       </button>

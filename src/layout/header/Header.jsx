@@ -19,7 +19,7 @@ const Header = () => {
 
           <div className="collapse navbar-collapse" id="navbarsFurni">
             <ul className="custom-navbar-nav navbar-nav ms-auto mb-2 mb-md-0">
-              <li className="nav-item active"><Link className="nav-link" to="/home">Home</Link></li>
+              <li className="nav-item"><Link className="nav-link" to="/home">Home</Link></li>
               <li><Link className="nav-link" to="/shop">Shop</Link></li>
               <li><Link className="nav-link" to="/about">About us</Link></li>
               <li><Link className="nav-link" to="/service">Services</Link></li>
