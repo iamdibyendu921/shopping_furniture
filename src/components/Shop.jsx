@@ -4,6 +4,7 @@ import { useDispatch } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import { addToCart } from "../Redux/cartSlice/CartSlice";
 import { toast } from "sonner";
+import Loader from "../UI/Loader";
 
 const Shop = () => {
   const { data, isLoading, isError } = useUserGetquery();
@@ -24,7 +25,7 @@ const Shop = () => {
   };
 
   if (isLoading) {
-    return <div>Loading...</div>;
+    return <Loader />;
   }
 
   if (isError) {
